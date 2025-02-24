@@ -1,7 +1,7 @@
 ---
 name: Create Issue
 about: Create New issue
-title: "(Please use "
+title: "(Please use SAP Service Now or SAP Customer Influence Portal)"
 ---
 
 Hello and thank you for your interest in contributing to Spartacus!
@@ -14,14 +14,12 @@ We appreciate your involvement and dedication to improving our product. As you m
 
 **How to Report Bugs:**
 https://support.sap.com/
-
-Please report any bugs or technical issues through _SAP Service Now_. This ensures your concerns are tracked and addressed by our dedicated support team.
+Please report any bugs or technical issues through SAP Service Now. This ensures your concerns are tracked and addressed by our dedicated support team.
 
 
 **How to Submit Improvement Requests:**
 https://pages.community.sap.com/topics/influence-adopt
-
-For improvement suggestions, kindly use the _SAP Customer Influence Portal_. This platform allows you to share ideas and engage with other users. You can submit proposals, participate in discussions, and vote on suggestions that matter most to you.
+For improvement suggestions, kindly use the SAP Customer Influence Portal. This platform allows you to share ideas and engage with other users. You can submit proposals, participate in discussions, and vote on suggestions that matter most to you.
 
 We are committed to delivering a robust and evolving product, and your feedback is crucial to this process. We encourage you to use these channels to ensure your concerns and ideas are heard and addressed efficiently.
 
