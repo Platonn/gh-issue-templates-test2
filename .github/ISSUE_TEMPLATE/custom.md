@@ -3,6 +3,7 @@ name: Create Issue
 about: Please use SAP Service Now or SAP Customer Influence Portal
 title: "(Please use SAP Service Now or SAP Customer Influence Portal)"
 ---
+<!--
 
 Hello and thank you for your interest in contributing to Spartacus!
 
@@ -24,3 +25,5 @@ For improvement suggestions, kindly use the SAP Customer Influence Portal. This 
 We are committed to delivering a robust and evolving product, and your feedback is crucial to this process. We encourage you to use these channels to ensure your concerns and ideas are heard and addressed efficiently.
 
 Thank you for your understanding and cooperation, and for being a valued part of the SAP Composable Storefront community.
+
+-->
