@@ -1,3 +1,9 @@
+---
+name: Create Issue
+about: Create New issue
+title: "(Please use "
+---
+
 Hello and thank you for your interest in contributing to Spartacus!
 
 We appreciate your involvement and dedication to improving our product. As you may know, the project, which originally began as the open-source initiative Spartacus, has now evolved into the official SAP product SAP Composable Storefront. This change means we're channeling our resources to ensure a high-quality experience through SAP's dedicated support and enhancement channels.
@@ -7,10 +13,15 @@ We appreciate your involvement and dedication to improving our product. As you m
 - Our team no longer actively monitors the GitHub repository for new issues or improvement suggestions.
 
 **How to Report Bugs:**
-Please report any bugs or technical issues through [SAP Service Now](https://support.sap.com/). This ensures your concerns are tracked and addressed by our dedicated support team.
+https://support.sap.com/
+
+Please report any bugs or technical issues through _SAP Service Now_. This ensures your concerns are tracked and addressed by our dedicated support team.
+
 
 **How to Submit Improvement Requests:**
-For improvement suggestions, kindly use the [SAP Customer Influence Portal](https://pages.community.sap.com/topics/influence-adopt). This platform allows you to share ideas and engage with other users. You can submit proposals, participate in discussions, and vote on suggestions that matter most to you.
+https://pages.community.sap.com/topics/influence-adopt
+
+For improvement suggestions, kindly use the _SAP Customer Influence Portal_. This platform allows you to share ideas and engage with other users. You can submit proposals, participate in discussions, and vote on suggestions that matter most to you.
 
 We are committed to delivering a robust and evolving product, and your feedback is crucial to this process. We encourage you to use these channels to ensure your concerns and ideas are heard and addressed efficiently.
 
