@@ -1,6 +1,6 @@
 ---
 name: Create Issue
-about: Create New issue
+about: Please use SAP Service Now or SAP Customer Influence Portal
 title: "(Please use SAP Service Now or SAP Customer Influence Portal)"
 ---
 
