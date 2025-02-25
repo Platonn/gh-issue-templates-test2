@@ -1,5 +1,6 @@
 ---
 name: Create Issue
+About: Create New Issue
 title: ""
 ---
 <!--
