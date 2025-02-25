@@ -1,6 +1,6 @@
 ---
 name: Create Issue
-About: Create New Issue
+about: Create New Issue
 title: ""
 ---
 <!--
